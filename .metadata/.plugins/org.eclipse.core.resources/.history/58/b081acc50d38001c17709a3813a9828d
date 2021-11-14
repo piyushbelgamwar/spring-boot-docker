@@ -1,0 +1,5 @@
+package com.learn.spring.boot.microservices.apigateway;
+
+public class LoggingFilter {
+
+}
